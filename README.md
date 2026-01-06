@@ -1,0 +1,2 @@
+# django-ci
+Django CI
